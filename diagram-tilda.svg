@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="524cm" height="354cm" viewBox="-8625 -2645 10466 7075" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <path style="fill: #b7b79d; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -8624.04 552.636 L -7727.11,552.636 L -7727.11,718.4 L -8624.04,718.4 L -8624.04,552.636z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -8624.04 552.636 L -7727.11,552.636 L -7727.11,718.4 L -8624.04,718.4 L -8624.04,552.636"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -8624.04 552.636 L -8528.94,462.476 L -7632,462.476 L -7727.11,552.636 L -8624.04,552.636z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -8624.04 552.636 L -8528.94,462.476 L -7632,462.476 L -7727.11,552.636 L -8624.04,552.636"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2.12; stroke: #000000" d="M -7777.28 628.099 L -7992.5,628.099"/>
+      <path style="fill: #7a7a5a; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7727.11 718.4 L -7632,623.012 L -7632,462.476 L -7727.11,552.636 L -7727.11,718.4z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -7727.11 718.4 L -7632,623.012 L -7632,462.476 L -7727.11,552.636 L -7727.11,718.4"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -8618.96 823.54 L -8518.91,698.192 L -7827.3,698.192 L -7927.36,823.54 L -8618.96,823.54z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -8618.96 823.54 L -8518.91,698.192 L -7827.3,698.192 L -7927.36,823.54 L -8618.96,823.54"/>
+      <path style="fill: #7a7a5a; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7927.36 848.553 L -7827.3,743.413 L -7827.3,698.192 L -7927.36,823.54 L -7927.36,848.553z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -7927.36 848.553 L -7827.3,743.413 L -7827.3,698.192 L -7927.36,823.54 L -7927.36,848.553"/>
+      <path style="fill: #b7b79d; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -8618.96 823.54 L -7927.36,823.54 L -7927.36,848.553 L -8618.96,848.553 L -8618.96,823.54z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -8618.96 823.54 L -7927.36,823.54 L -7927.36,848.553 L -8618.96,848.553 L -8618.96,823.54"/>
+      <path style="fill: #000000; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -8488.81 532.711 L -8413.48,462.476 L -7777.28,462.476 L -7847.23,532.711 L -8488.81,532.711z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #000000" d="M -8488.81 532.711 L -8413.48,462.476 L -7777.28,462.476 L -7847.23,532.711 L -8488.81,532.711"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -8493.89 16.0582 L -8423.52,-49.0886 L -7787.03,-49.0886 L -7857.4,16.0582 L -8493.89,16.0582z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -8493.89 16.0582 L -8423.52,-49.0886 L -7787.03,-49.0886 L -7857.4,16.0582 L -8493.89,16.0582"/>
+      <path style="fill: #b7b79d; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -8493.89 16.0582 L -7852.32,16.0582 L -7852.32,522.536 L -8493.89,522.536 L -8493.89,16.0582z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -8493.89 16.0582 L -7852.6,16.0582 L -7852.6,522.395 L -8493.89,522.395 L -8493.89,16.0582"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -8438.78 81.0637 L -7907.57,81.0637 L -7907.57,472.369 L -8438.78,472.369 L -8438.78,81.0637z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -8438.78 81.0637 L -7907.57,81.0637 L -7907.57,472.227 L -8438.78,472.227 L -8438.78,81.0637"/>
+      <path style="fill: #7a7a5a; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7857.4 517.731 L -7787.03,447.497 L -7787.03,-49.0886 L -7857.4,16.0582 L -7857.4,517.731z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -7857.4 517.731 L -7787.03,447.497 L -7787.03,-49.0886 L -7857.4,16.0582 L -7857.4,517.731"/>
+    </g>
+    <g>
+      <path style="fill: #a5a585; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 311.958 1030.4 L 311.958,3.0883 L 666.048,3.0883 L 666.048,1030.4 L 311.958,1030.4z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 314.793 3.0883 L 666.048,3.0883 L 666.048,1030.4 L 314.793,1030.4"/>
+      <path style="fill: #a5a585; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 666.048 1030.4 L 666.048,3.0883 L 1019.9,3.0883 L 1019.9,1030.4 L 666.048,1030.4z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 666.048 1030.4 L 666.048,3.0883 L 1019.9,3.0883 L 1019.9,1030.4 L 666.048,1030.4"/>
+      <path style="fill: #a5a585; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1019.9 1030.4 L 1019.9,3.0883 L 1374.23,3.0883 L 1374.23,1030.4 L 1019.9,1030.4z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1019.9 1030.4 L 1019.9,3.0883 L 1374.23,3.0883 L 1374.23,1030.4 L 1019.9,1030.4"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 471.169 -156.122 L 311.958,3.0883 L 666.048,3.0883 L 825.731,-156.122 L 471.169,-156.122z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 470.696 -155.886 L 314.793,0.253693"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 314.793 3.0883 L 666.048,3.0883 L 825.259,-155.886"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 825.731 -156.122 L 666.048,3.0883 L 1019.9,3.0883 L 1179.35,-156.122 L 825.731,-156.122z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 825.259 -155.886 L 666.048,3.0883 L 1019.9,3.0883 L 1179.11,-155.886"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1179.35 -156.122 L 1019.9,3.0883 L 1374.23,3.0883 L 1533.67,-156.122 L 1179.35,-156.122z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1179.11 -155.886 L 1019.9,3.0883 L 1374.23,3.0883 L 1533.44,-155.886"/>
+      <path style="fill: #7a7a5a; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1533.67 879.928 L 1374.23,1030.4 L 1374.23,3.0883 L 1533.67,-156.122 L 1533.67,879.928z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1533.67 879.928 L 1374.23,1030.4 L 1374.23,3.0883 L 1533.44,-155.886"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1533.67 -155.886 L 1533.67,879.928"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1073.05 233.4 L 1073.05,47.4972 L 1329.82,47.4972 L 1329.82,233.4 L 1073.05,233.4z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1073.05 233.4 L 1073.05,47.4972 L 1329.82,47.4972 L 1329.82,233.4 L 1073.05,233.4"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1073.05 463.476 L 1073.05,286.785 L 1329.82,286.785 L 1329.82,463.476 L 1073.05,463.476z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1073.05 463.476 L 1073.05,286.785 L 1329.82,286.785 L 1329.82,463.476 L 1073.05,463.476"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1073.05 968.037 L 1073.05,790.874 L 1329.82,790.874 L 1329.82,968.037 L 1073.05,968.037z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1073.05 968.037 L 1073.05,790.874 L 1329.82,790.874 L 1329.82,968.037 L 1073.05,968.037"/>
+    </g>
+    <g>
+      <path style="fill: #b7b79d; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7957.43 4330.64 L -7957.43,3154.59 L -7481.85,3154.59 L -7481.85,4330.64 L -7957.43,4330.64z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -7957.43 4330.64 L -7957.43,3154.59 L -7481.85,3154.59 L -7481.85,4330.64 L -7957.43,4330.64"/>
+      <path style="fill: #a5a585; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7481.85 4330.64 L -7481.85,3154.59 L -7005.91,3154.59 L -7005.91,4330.64 L -7481.85,4330.64z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -7481.85 4330.64 L -7481.85,3154.59 L -7005.91,3154.59 L -7005.91,4330.64 L -7481.85,4330.64"/>
+      <path style="fill: #7a7a5a; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -6757.52 4081.3 L -6757.52,2905.25 L -7005.91,3154.59 L -7005.91,4330.64 L -6757.52,4081.3z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -6757.52 4081.3 L -6757.52,2905.25 L -7005.91,3154.59 L -7005.91,4330.64 L -6757.52,4081.3"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7709.23 2905.25 L -7957.43,3154.59 L -7005.91,3154.59 L -6757.52,2905.25 L -7709.23,2905.25z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -7709.23 2905.25 L -7957.43,3154.59 L -7005.91,3154.59 L -6757.52,2905.25 L -7709.23,2905.25"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #7a7a5a" d="M -7261.68 2933.65 L -7453.27,3126"/>
+      <path style="fill: #b7b79d; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7716.42 4323.26 L -7957.43,4323.26 L -7957.24,4328.56 L -7956.29,4333.86 L -7954.78,4339.35 L -7952.69,4344.65 L -7949.66,4349.76 L -7946.45,4355.25 L -7942.47,4360.36 L -7937.93,4365.1 L -7933,4370.02 L -7927.32,4374.94 L -7921.08,4379.67 L -7914.26,4384.03 L -7907.07,4388.38 L -7899.3,4392.74 L -7891.16,4396.71 L -7882.64,4400.5 L -7873.37,4404.28 L -7863.9,4407.5 L -7854.25,4410.72 L -7843.83,4413.75 L -7833.42,4416.4 L -7822.63,4419.05 L -7811.46,4421.13 L -7800.1,4423.03 L -7788.74,4424.92 L -7776.81,4426.25 L -7765.08,4427.76 L -7752.96,4428.52 L -7740.65,4429.27 L -7728.54,4429.65 L -7716.42,4429.84 L -7704.31,4429.65 L -7692.19,4429.27 L -7680.07,4428.52 L -7667.96,4427.76 L -7656.03,4426.25 L -7644.29,4424.92 L -7632.93,4423.03 L -7621.38,4421.13 L -7610.21,4419.05 L -7599.42,4416.4 L -7588.82,4413.75 L -7578.6,4410.72 L -7568.75,4407.5 L -7559.29,4404.28 L -7550.39,4400.5 L -7541.49,4396.71 L -7533.73,4392.74 L -7525.78,4388.38 L -7518.39,4384.03 L -7511.77,4379.67 L -7505.52,4374.94 L -7499.84,4370.02 L -7495.11,4365.1 L -7490.56,4360.36 L -7486.4,4355.25 L -7483.18,4349.76 L -7480.34,4344.65 L -7478.07,4339.35 L -7476.74,4333.86 L -7475.61,4328.56 L -7475.23,4323.26 L -7716.42,4323.26z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -7957.43 4323.26 L -7957.24,4328.56 L -7956.29,4333.86 L -7954.78,4339.35 L -7952.69,4344.65 L -7949.66,4349.76 L -7946.45,4355.25 L -7942.47,4360.36 L -7937.93,4365.1 L -7933,4370.02 L -7927.32,4374.94 L -7921.08,4379.67 L -7914.26,4384.03 L -7907.07,4388.38 L -7899.3,4392.74 L -7890.97,4396.71 L -7882.27,4400.5 L -7873.37,4404.28 L -7863.9,4407.5 L -7854.06,4410.72 L -7843.83,4413.75 L -7833.23,4416.4 L -7822.63,4419.05 L -7811.46,4421.13 L -7800.1,4423.03 L -7788.55,4424.92 L -7776.63,4426.25 L -7765.08,4427.76 L -7752.96,4428.52 L -7740.65,4429.27 L -7728.54,4429.65 L -7716.04,4429.84 L -7704.12,4429.65 L -7691.81,4429.27 L -7679.88,4428.52 L -7667.58,4427.76 L -7656.03,4426.25 L -7644.29,4424.92 L -7632.55,4423.03 L -7621.19,4421.13 L -7610.02,4419.05 L -7599.42,4416.4 L -7588.82,4413.75 L -7578.6,4410.72 L -7568.75,4407.5 L -7559.29,4404.28 L -7549.82,4400.5 L -7541.49,4396.71 L -7533.35,4392.74 L -7525.59,4388.38 L -7518.2,4384.03 L -7511.58,4379.67 L -7505.33,4374.94 L -7499.46,4370.02 L -7494.54,4365.1 L -7490,4360.36 L -7486.21,4355.25 L -7482.99,4349.76 L -7479.96,4344.65 L -7477.88,4339.35 L -7476.55,4333.86 L -7475.23,4328.56 L -7475.04,4323.26"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7623.66 3247.35 L -7623.66,3304.34 L -7623.66,3368.52 L -7623.66,3446.89 L -7623.66,3525.27 L -7623.66,3703.23 L -7623.66,3888.58 L -7623.66,3974.34 L -7623.66,4059.72 L -7623.66,4131.1 L -7623.66,4195.28 L -7623.66,4252.26 L -7623.66,4294.86 L -7623.66,4316.44 L -7623.66,4330.64 L -7481.85,4330.64 L -7481.85,3161.59 L -7488.86,3161.59 L -7481.85,3168.97 L -7481.85,3175.98 L -7502.87,3197.37 L -7538.84,3218.76 L -7581.06,3232.96 L -7623.66,3247.35z"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7623.66 4416.02 L -7574.05,4401.82 L -7531.46,4380.62 L -7510.25,4373.24 L -7495.86,4359.04 L -7488.86,4337.64 L -7481.85,4323.44 L -7495.86,4323.44 L -7510.25,4323.44 L -7531.46,4323.44 L -7574.05,4323.44 L -7623.66,4323.44 L -7623.66,4352.03 L -7623.66,4380.62 L -7623.66,4394.82 L -7623.66,4409.02 L -7623.66,4416.02z"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7936.22 3140.39 L -7957.43,3161.59 L -7481.85,3161.59 L -7481.85,3140.39 L -7936.22,3140.39z"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7716.42 3154.4 L -7957.43,3154.4 L -7957.24,3159.51 L -7956.29,3165.19 L -7954.78,3170.49 L -7952.69,3175.98 L -7949.66,3181.09 L -7946.45,3186.39 L -7942.47,3191.5 L -7937.93,3196.42 L -7933,3201.16 L -7927.32,3206.08 L -7921.08,3210.81 L -7914.26,3215.17 L -7907.07,3219.52 L -7899.3,3223.88 L -7891.16,3227.85 L -7882.64,3231.64 L -7873.37,3235.24 L -7863.9,3238.64 L -7854.25,3241.86 L -7843.83,3244.7 L -7833.42,3247.54 L -7822.63,3250.19 L -7811.46,3252.46 L -7800.1,3254.17 L -7788.74,3256.25 L -7776.81,3257.58 L -7765.08,3258.9 L -7752.96,3259.66 L -7740.65,3260.41 L -7728.54,3260.79 L -7716.42,3260.98 L -7704.31,3260.79 L -7692.19,3260.41 L -7680.07,3259.66 L -7667.96,3258.9 L -7656.03,3257.58 L -7644.29,3256.25 L -7632.93,3254.17 L -7621.38,3252.46 L -7610.21,3250.19 L -7599.42,3247.54 L -7588.82,3244.7 L -7578.6,3241.86 L -7568.75,3238.64 L -7559.29,3235.24 L -7550.39,3231.64 L -7541.49,3227.85 L -7533.73,3223.88 L -7525.78,3219.52 L -7518.39,3215.17 L -7511.77,3210.81 L -7505.52,3206.08 L -7499.84,3201.16 L -7495.11,3196.42 L -7490.56,3191.5 L -7486.4,3186.39 L -7483.18,3181.09 L -7480.34,3175.98 L -7478.07,3170.49 L -7476.74,3165.19 L -7475.61,3159.51 L -7475.23,3154.4 L -7716.42,3154.4z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -7957.43 3154.4 L -7957.24,3159.51 L -7956.29,3165.19 L -7954.78,3170.49 L -7952.69,3175.98 L -7949.66,3181.09 L -7946.45,3186.39 L -7942.47,3191.5 L -7937.93,3196.42 L -7933,3201.16 L -7927.32,3206.08 L -7921.08,3210.81 L -7914.26,3215.17 L -7907.07,3219.52 L -7899.3,3223.88 L -7890.97,3227.85 L -7882.27,3231.64 L -7873.37,3235.24 L -7863.9,3238.64 L -7854.06,3241.86 L -7843.83,3244.7 L -7833.23,3247.54 L -7822.63,3250.19 L -7811.46,3252.46 L -7800.1,3254.17 L -7788.55,3256.25 L -7776.63,3257.58 L -7765.08,3258.9 L -7752.96,3259.66 L -7740.65,3260.41 L -7728.54,3260.79 L -7716.04,3260.98 L -7704.12,3260.79 L -7691.81,3260.41 L -7679.88,3259.66 L -7667.58,3258.9 L -7656.03,3257.58 L -7644.29,3256.25 L -7632.55,3254.17 L -7621.19,3252.46 L -7610.02,3250.19 L -7599.42,3247.54 L -7588.82,3244.7 L -7578.6,3241.86 L -7568.75,3238.64 L -7559.29,3235.24 L -7549.82,3231.64 L -7541.49,3227.85 L -7533.35,3223.88 L -7525.59,3219.52 L -7518.2,3215.17 L -7511.58,3210.81 L -7505.33,3206.08 L -7499.46,3201.16 L -7494.54,3196.42 L -7490,3191.5 L -7486.21,3186.39 L -7482.99,3181.09 L -7479.96,3175.98 L -7477.88,3170.49 L -7476.55,3165.19 L -7475.23,3159.51 L -7475.04,3154.4"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #7a7a5a" d="M -7914.83 3154.59 L -7524.45,3154.59"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7474.66 4323.44 L -7474.66,3161.59 L -7389.28,3161.59 L -7389.28,4323.44 L -7474.66,4323.44z"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7403.67 3503.69 L -7403.67,3232.96 L -7084.09,3232.96 L -7084.09,3503.69 L -7403.67,3503.69z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -7403.67 3503.69 L -7403.67,3232.96 L -7084.09,3232.96 L -7084.09,3503.69 L -7403.67,3503.69"/>
+      <path style="fill: #7a7a5a; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7396.66 3503.69 L -7396.66,3240.35 L -7389.28,3240.35 L -7389.28,3503.69 L -7396.66,3503.69z"/>
+      <path style="fill: #d4000a; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -7950.23 3175.98 L -7929.03,3197.37 L -7929.03,4366.23 L -7950.23,4345.03 L -7950.23,3175.98z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -7957.43 3154.4 L -7957.24,3159.51 L -7956.29,3165.19 L -7954.78,3170.49 L -7952.69,3175.98 L -7949.66,3181.09 L -7946.45,3186.39 L -7942.47,3191.5 L -7937.93,3196.42 L -7933,3201.16 L -7927.32,3206.08 L -7921.08,3210.81 L -7914.26,3215.17 L -7907.07,3219.52 L -7899.3,3223.88 L -7890.97,3227.85 L -7882.27,3231.64 L -7873.37,3235.24 L -7863.9,3238.64 L -7854.06,3241.86 L -7843.83,3244.7 L -7833.23,3247.54 L -7822.63,3250.19 L -7811.46,3252.46 L -7800.1,3254.17 L -7788.55,3256.25 L -7776.63,3257.58 L -7765.08,3258.9 L -7752.96,3259.66 L -7740.65,3260.41 L -7728.54,3260.79 L -7716.04,3260.98 L -7704.12,3260.79 L -7691.81,3260.41 L -7679.88,3259.66 L -7667.58,3258.9 L -7656.03,3257.58 L -7644.29,3256.25 L -7632.55,3254.17 L -7621.19,3252.46 L -7610.02,3250.19 L -7599.42,3247.54 L -7588.82,3244.7 L -7578.6,3241.86 L -7568.75,3238.64 L -7559.29,3235.24 L -7549.82,3231.64 L -7541.49,3227.85 L -7533.35,3223.88 L -7525.59,3219.52 L -7518.2,3215.17 L -7511.58,3210.81 L -7505.33,3206.08 L -7499.46,3201.16 L -7494.54,3196.42 L -7490,3191.5 L -7486.21,3186.39 L -7482.99,3181.09 L -7479.96,3175.98 L -7477.88,3170.49 L -7476.55,3165.19 L -7475.23,3159.51 L -7475.04,3154.4"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.02; stroke: #494936" d="M -7957.43 4326.47 L -7957.24,4331.59 L -7956.48,4336.7 L -7954.78,4342 L -7952.69,4346.92 L -7950.23,4352.03 L -7947.01,4357.14 L -7943.23,4361.88 L -7938.49,4366.8 L -7934.14,4371.34 L -7928.46,4376.27 L -7922.59,4380.62 L -7915.78,4384.78 L -7908.77,4389.14 L -7901.2,4393.11 L -7893.06,4396.9 L -7884.73,4400.69 L -7876.21,4404.28 L -7866.74,4407.69 L -7856.9,4410.72 L -7847.05,4413.75 L -7836.45,4416.4 L -7826.04,4418.86 L -7815.25,4420.94 L -7803.89,4423.03 L -7792.53,4424.73 L -7780.98,4426.25 L -7769.24,4427.76 L -7757.5,4428.52 L -7745.39,4429.27 L -7733.27,4429.84 L -7720.78,4430.03 L -7709.23,4430.03 L -7697.11,4429.84 L -7684.99,4429.27 L -7672.88,4428.52 L -7660.95,4427.38 L -7649.59,4426.06 L -7638.04,4424.54 L -7626.5,4422.65 L -7615.33,4420.76 L -7604.53,4418.29 L -7594.12,4415.83 L -7583.52,4413.18 L -7573.86,4410.15 L -7564.02,4406.93 L -7554.93,4403.72 L -7546.22,4400.12 L -7537.89,4396.52 L -7529.94,4392.36 L -7522.56,4388.38 L -7515.55,4384.03 L -7508.93,4379.67 L -7502.87,4375.13 L -7497.57,4370.59 L -7492.65,4365.66 L -7488.67,4360.93 L -7485.07,4356.01 L -7481.85,4351.09 L -7479.2,4345.97 L -7477.31,4340.86 L -7475.8,4335.75 L -7475.23,4330.64 L -7475.04,4325.34"/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke: #00aed9" d="M -2340.58 236.367 L -2340.58,-166.866"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 20; stroke: #00aed9" d="M -2340.58 229.86 L -2340.58,-46.7342"/>
+      <path style="fill: #000000; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -2328.87 -128.12 L -2353.52,-128.12 L -2353.52,-177.415 L -2328.87,-177.415 L -2328.87,-128.12z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 10; stroke: #00aed9" d="M -2328.87 -128.12 L -2353.52,-128.12 L -2353.52,-177.415 L -2328.87,-177.415 L -2328.87,-128.12"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke: #00aed9" d="M -2938.28 236.367 L -2938.28,-166.866"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 20; stroke: #00aed9" d="M -2938.28 229.86 L -2938.28,-46.7342"/>
+      <path style="fill: #000000; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -2926.57 -128.12 L -2951.22,-128.12 L -2951.22,-177.415 L -2926.57,-177.415 L -2926.57,-128.12z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 10; stroke: #00aed9" d="M -2926.57 -128.12 L -2951.22,-128.12 L -2951.22,-177.415 L -2926.57,-177.415 L -2926.57,-128.12"/>
+      <path style="fill: #00aed9; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -2173.39 287.56 C -2173.39,384.917 -2376.34,463.838 -2626.71,463.838 C -2877.08,463.838 -3080.03,384.917 -3080.03,287.56 L -3080.03,545.767 C -3080.03,643.149 -2877.08,722.07 -2626.71,722.07 C -2376.34,722.07 -2173.39,643.149 -2173.39,545.767 L -2173.39,287.56z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke: #ffffff" d="M -2173.39 287.56 C -2173.39,384.917 -2376.34,463.838 -2626.71,463.838 C -2877.08,463.838 -3080.03,384.917 -3080.03,287.56 L -3080.03,545.767 C -3080.03,643.149 -2877.08,722.07 -2626.71,722.07 C -2376.34,722.07 -2173.39,643.149 -2173.39,545.767 L -2173.39,287.56"/>
+      <path style="fill: #00aed9; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -2626.71 463.838 C -2376.34,463.838 -2173.39,384.917 -2173.39,287.56 C -2173.39,190.177 -2376.34,111.256 -2626.71,111.256 C -2877.08,111.256 -3080.03,190.177 -3080.03,287.56 C -3080.03,384.917 -2877.08,463.838 -2626.71,463.838z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 4; stroke: #ffffff" d="M -2626.71 463.838 C -2376.34,463.838 -2173.39,384.917 -2173.39,287.56 C -2173.39,190.177 -2376.34,111.256 -2626.71,111.256 C -2877.08,111.256 -3080.03,190.177 -3080.03,287.56 C -3080.03,384.917 -2877.08,463.838 -2626.71,463.838"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -2730.23 218.621 L -2692.79,274.768 L -2834.31,307.475 L -2803.41,281.743 L -3022.15,244.353 L -2967.26,203.216 L -2756.21,238.955 L -2730.23,218.621z"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -2531.05 354.773 L -2556.61,296.901 L -2428.96,271.391 L -2451.1,291.207 L -2238.31,327.563 L -2289.33,368.403 L -2500.88,328.696 L -2531.05,354.773z"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -2600.88 187.959 L -2457.87,148.819 L -2456.2,210.117 L -2491.91,203.29 L -2561.74,261.162 L -2628.31,251.451 L -2556.29,194.836 L -2600.88,187.959z"/>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M -2662.15 407.568 L -2798.3,433.078 L -2803.41,370.129 L -2764.29,378.607 L -2689.34,314.598 L -2622.99,325.837 L -2702.99,395.639 L -2662.15,407.568z"/>
+    </g>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-6562.69,338.26 -6937.04,338.26 -6937.04,244.672 -7124.22,431.847 -6937.04,619.023 -6937.04,525.435 -6562.69,525.435 -6562.69,619.023 -6375.52,431.847 -6562.69,244.672 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-603.72,358.454 -1083.07,358.454 -1083.07,238.618 -1322.74,478.291 -1083.07,717.964 -1083.07,598.128 -603.72,598.128 -603.72,717.964 -364.047,478.291 -603.72,238.618 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="811.664,1680.57 811.664,1261.85 706.984,1261.85 916.344,1052.49 1125.7,1261.85 1021.02,1261.85 1021.02,1680.57 1125.7,1680.57 916.344,1889.93 706.984,1680.57 "/>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="689.6" y="193.457" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="848.46" y="270.74">
+        <tspan x="848.46" y="270.74">PYSER</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="782.35,-112.496 1062.18,-112.496 1020.24,2.73019 740.412,2.73019 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="901.294" y="-50.9829">
+        <tspan x="901.294" y="-50.9829">MARVIN</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: #a5a585; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 308.758 3112.43 L 308.758,2081.63 L 664.05,2081.63 L 664.05,3112.43 L 308.758,3112.43z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 311.602 2081.63 L 664.05,2081.63 L 664.05,3112.43 L 311.602,3112.43"/>
+      <path style="fill: #a5a585; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 664.05 3112.43 L 664.05,2081.63 L 1019.1,2081.63 L 1019.1,3112.43 L 664.05,3112.43z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 664.05 3112.43 L 664.05,2081.63 L 1019.1,2081.63 L 1019.1,3112.43 L 664.05,3112.43"/>
+      <path style="fill: #a5a585; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1019.1 3112.43 L 1019.1,2081.63 L 1374.63,2081.63 L 1374.63,3112.43 L 1019.1,3112.43z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1019.1 3112.43 L 1019.1,2081.63 L 1374.63,2081.63 L 1374.63,3112.43 L 1019.1,3112.43"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 468.509 1921.88 L 308.758,2081.63 L 664.05,2081.63 L 824.275,1921.88 L 468.509,1921.88z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 468.035 1922.12 L 311.602,2078.79"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 311.602 2081.63 L 664.05,2081.63 L 823.801,1922.12"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 824.275 1921.88 L 664.05,2081.63 L 1019.1,2081.63 L 1179.09,1921.88 L 824.275,1921.88z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 823.801 1922.12 L 664.05,2081.63 L 1019.1,2081.63 L 1178.86,1922.12"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1179.09 1921.88 L 1019.1,2081.63 L 1374.63,2081.63 L 1534.62,1921.88 L 1179.09,1921.88z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1178.86 1922.12 L 1019.1,2081.63 L 1374.63,2081.63 L 1534.38,1922.12"/>
+      <path style="fill: #7a7a5a; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1534.62 2961.45 L 1374.63,3112.43 L 1374.63,2081.63 L 1534.62,1921.88 L 1534.62,2961.45z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1534.62 2961.45 L 1374.63,3112.43 L 1374.63,2081.63 L 1534.38,1922.12"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1534.62 1922.12 L 1534.62,2961.45"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1072.43 2312.73 L 1072.43,2126.19 L 1330.07,2126.19 L 1330.07,2312.73 L 1072.43,2312.73z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1072.43 2312.73 L 1072.43,2126.19 L 1330.07,2126.19 L 1330.07,2312.73 L 1072.43,2312.73"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1072.43 2543.59 L 1072.43,2366.29 L 1330.07,2366.29 L 1330.07,2543.59 L 1072.43,2543.59z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1072.43 2543.59 L 1072.43,2366.29 L 1330.07,2366.29 L 1330.07,2543.59 L 1072.43,2543.59"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1072.43 3049.86 L 1072.43,2872.09 L 1330.07,2872.09 L 1330.07,3049.86 L 1072.43,3049.86z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1072.43 3049.86 L 1072.43,2872.09 L 1330.07,2872.09 L 1330.07,3049.86 L 1072.43,3049.86"/>
+    </g>
+    <g>
+      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" cx="-2627.29" cy="298.674" rx="452.011" ry="181.839"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-2627.29" y="302.574">
+        <tspan x="-2627.29" y="302.574">APU</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1039.19" y="508.652" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1198.05" y="577.935">
+        <tspan x="1198.05" y="577.935">POSTGRESQL</tspan>
+        <tspan x="1198.05" y="593.935">(SLAVE)</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="689.911" y="30.9259" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="848.771" y="108.209">
+        <tspan x="848.771" y="108.209">BSIDES</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="328.127" y="29.6619" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="486.987" y="106.945">
+        <tspan x="486.987" y="106.945">CBSD</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="328.556" y="357.088" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="487.416" y="434.37">
+        <tspan x="487.416" y="434.37">LETSENCRYPT</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: #a5a585; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 318.668 -1453.78 L 318.668,-2484.58 L 673.96,-2484.58 L 673.96,-1453.78 L 318.668,-1453.78z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 321.512 -2484.58 L 673.96,-2484.58 L 673.96,-1453.78 L 321.512,-1453.78"/>
+      <path style="fill: #a5a585; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 673.96 -1453.78 L 673.96,-2484.58 L 1029.01,-2484.58 L 1029.01,-1453.78 L 673.96,-1453.78z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 673.96 -1453.78 L 673.96,-2484.58 L 1029.01,-2484.58 L 1029.01,-1453.78 L 673.96,-1453.78"/>
+      <path style="fill: #a5a585; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1029.01 -1453.78 L 1029.01,-2484.58 L 1384.54,-2484.58 L 1384.54,-1453.78 L 1029.01,-1453.78z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1029.01 -1453.78 L 1029.01,-2484.58 L 1384.54,-2484.58 L 1384.54,-1453.78 L 1029.01,-1453.78"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 478.419 -2644.33 L 318.668,-2484.58 L 673.96,-2484.58 L 834.185,-2644.33 L 478.419,-2644.33z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 477.945 -2644.09 L 321.512,-2487.42"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 321.512 -2484.58 L 673.96,-2484.58 L 833.711,-2644.09"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 834.185 -2644.33 L 673.96,-2484.58 L 1029.01,-2484.58 L 1189,-2644.33 L 834.185,-2644.33z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 833.711 -2644.09 L 673.96,-2484.58 L 1029.01,-2484.58 L 1188.77,-2644.09"/>
+      <path style="fill: #c9c9b6; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1189 -2644.33 L 1029.01,-2484.58 L 1384.54,-2484.58 L 1544.53,-2644.33 L 1189,-2644.33z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1188.77 -2644.09 L 1029.01,-2484.58 L 1384.54,-2484.58 L 1544.29,-2644.09"/>
+      <path style="fill: #7a7a5a; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1544.53 -1604.76 L 1384.54,-1453.78 L 1384.54,-2484.58 L 1544.53,-2644.33 L 1544.53,-1604.76z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1544.53 -1604.76 L 1384.54,-1453.78 L 1384.54,-2484.58 L 1544.29,-2644.09"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1544.53 -2644.09 L 1544.53,-1604.76"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1082.34 -2253.49 L 1082.34,-2440.02 L 1339.98,-2440.02 L 1339.98,-2253.49 L 1082.34,-2253.49z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1082.34 -2253.49 L 1082.34,-2440.02 L 1339.98,-2440.02 L 1339.98,-2253.49 L 1082.34,-2253.49"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1082.34 -2022.63 L 1082.34,-2199.92 L 1339.98,-2199.92 L 1339.98,-2022.63 L 1082.34,-2022.63z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1082.34 -2022.63 L 1082.34,-2199.92 L 1339.98,-2199.92 L 1339.98,-2022.63 L 1082.34,-2022.63"/>
+      <path style="fill: #93936c; fill-opacity: 1; stroke: none" fill-rule="evenodd" d="M 1082.34 -1516.36 L 1082.34,-1694.12 L 1339.98,-1694.12 L 1339.98,-1516.36 L 1082.34,-1516.36z"/>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 0.06; stroke: #494936" d="M 1082.34 -1516.36 L 1082.34,-1694.12 L 1339.98,-1694.12 L 1339.98,-1516.36 L 1082.34,-1516.36"/>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="340.856,37.3206 390.354,37.3206 390.354,72.5446 335.357,72.5446 335.357,40.843 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="364.23" y="59.8132">
+        <tspan x="364.23" y="59.8132">DHCP</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="385.071,152.084 340.243,152.084 340.243,124.83 390.052,124.83 390.052,149.358 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="363.902" y="141.775">
+        <tspan x="363.902" y="141.775">PF</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="384.577,103.859 336.726,103.859 336.726,80.7009 389.894,80.7009 389.894,101.543 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="361.981" y="95.7009">
+        <tspan x="361.981" y="95.7009">DNS</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="385.606,93.0644 424.259,93.0644 424.259,116.222 381.311,116.222 381.311,95.3802 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="403.859" y="109.222">
+        <tspan x="403.859" y="109.222">nullfs</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="384.456,141.733 423.109,141.733 423.109,167.96 380.161,167.96 380.161,144.355 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="402.709" y="159.502">
+        <tspan x="402.709" y="159.502">devfs</tspan>
+      </text>
+    </g>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="812.911,-580.194 812.911,-998.913 708.232,-998.913 917.591,-1208.27 1126.95,-998.913 1022.27,-998.913 1022.27,-580.194 1126.95,-580.194 917.591,-370.834 708.232,-580.194 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-3812.53,321.999 -4186.88,321.999 -4186.88,228.412 -4374.05,415.587 -4186.88,602.762 -4186.88,509.175 -3812.53,509.175 -3812.53,602.762 -3625.35,415.587 -3812.53,228.412 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-6082.17,408.571 -5725.55,340.281 -5903.86,67.1211 -5618.56,237.846 -5547.23,-103.604 -5475.91,237.846 -5190.61,67.1211 -5368.92,340.281 -5012.29,408.571 -5368.92,476.861 -5190.61,750.021 -5475.91,579.296 -5547.23,920.746 -5618.56,579.296 -5903.86,750.021 -5725.55,476.861 "/>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1032.08" y="2617.04" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1190.94" y="2686.32">
+        <tspan x="1190.94" y="2686.32">POSTGRESQL</tspan>
+        <tspan x="1190.94" y="2702.32">(MASTER)</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="709.085,54.7435 756.122,54.7435 756.122,82.2534 703.859,82.2534 703.859,57.4945 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="731.297" y="73.1862">
+        <tspan x="731.297" y="73.1862">upload</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="710.807,207.406 757.844,207.406 757.844,234.916 705.581,234.916 705.581,210.157 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="733.019" y="225.849">
+        <tspan x="733.019" y="225.849">upload</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="703.519,98.5586 762.209,98.5586 762.209,126.069 696.998,126.069 696.998,101.31 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="731.234" y="117.001">
+        <tspan x="731.234" y="117.001">gunicorn</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="710.268,246.837 768.958,246.837 768.958,274.347 703.747,274.347 703.747,249.588 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="737.983" y="265.28">
+        <tspan x="737.983" y="265.28">gunicorn</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="328.35" y="193.332" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="487.21" y="270.615">
+        <tspan x="487.21" y="270.615">NGINX</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="346.035,287.041 392.692,287.041 392.692,315.94 340.85,315.94 340.85,289.931 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="368.067" y="306.213">
+        <tspan x="368.067" y="306.213">STATIC</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="778.542,1966.38 1058.37,1966.38 1016.43,2081.6 736.603,2081.6 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="897.485" y="2027.89">
+        <tspan x="897.485" y="2027.89">ZISKAR</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="329.841" y="2101.06" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="488.701" y="2178.35">
+        <tspan x="488.701" y="2178.35">CBSD</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="683.668" y="2101.67" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="842.528" y="2178.95">
+        <tspan x="842.528" y="2178.95">BSIDES</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="328.791" y="2272.02" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="487.651" y="2349.31">
+        <tspan x="487.651" y="2349.31">NGINX</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="686.818" y="2270.97" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="845.677" y="2348.26">
+        <tspan x="845.677" y="2348.26">PYSER</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="328.791" y="2441.59" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="487.651" y="2518.87">
+        <tspan x="487.651" y="2518.87">LETSENCRYPT</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="344.74,2113.43 394.237,2113.43 394.237,2148.66 339.24,2148.66 339.24,2116.96 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="368.114" y="2135.93">
+        <tspan x="368.114" y="2135.93">DHCP</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="389.191,2177.54 341.34,2177.54 341.34,2154.38 394.508,2154.38 394.508,2175.22 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="366.595" y="2169.38">
+        <tspan x="366.595" y="2169.38">DNS</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="386.168,2224.94 341.34,2224.94 341.34,2197.69 391.149,2197.69 391.149,2222.22 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="364.999" y="2214.64">
+        <tspan x="364.999" y="2214.64">PF</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="388.682,2168.56 427.335,2168.56 427.335,2191.71 384.387,2191.71 384.387,2170.87 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="406.935" y="2184.71">
+        <tspan x="406.935" y="2184.71">nullfs</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="389.732,2211.86 428.385,2211.86 428.385,2238.09 385.437,2238.09 385.437,2214.49 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="407.985" y="2229.63">
+        <tspan x="407.985" y="2229.63">devfs</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="350.355,2368.85 397.013,2368.85 397.013,2397.74 345.171,2397.74 345.171,2371.74 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="372.388" y="2388.02">
+        <tspan x="372.388" y="2388.02">STATIC</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-7383" y="3627.5" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-7224.14" y="3696.78">
+        <tspan x="-7224.14" y="3696.78">POSTGRESQL</tspan>
+        <tspan x="-7224.14" y="3712.78">(MASTER)</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="686.15" y="2445.66" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="845.01" y="2522.94">
+        <tspan x="845.01" y="2522.94">JABBER</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="330.701" y="2612.17" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="489.561" y="2689.45">
+        <tspan x="489.561" y="2689.45">LDAP</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1089.11" y="49.5732" width="233.082" height="118.478" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1205.65" y="88.712">
+        <tspan x="1205.65" y="88.712">8 CORE</tspan>
+        <tspan x="1205.65" y="104.712">64 GB RAM</tspan>
+        <tspan x="1205.65" y="120.712">1.7GHz</tspan>
+        <tspan x="1205.65" y="136.712">AMD64</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1087.75" y="2134.01" width="233.082" height="118.478" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1204.29" y="2173.15">
+        <tspan x="1204.29" y="2173.15">8 CORE</tspan>
+        <tspan x="1204.29" y="2189.15">64 GB RAM</tspan>
+        <tspan x="1204.29" y="2205.15">1.7GHz</tspan>
+        <tspan x="1204.29" y="2221.15">AMD64</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="1093.46" y="-2430.06" width="233.082" height="118.478" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1210" y="-2390.92">
+        <tspan x="1210" y="-2390.92">2 CORE</tspan>
+        <tspan x="1210" y="-2374.92">8 GB RAM</tspan>
+        <tspan x="1210" y="-2358.92">3GHz</tspan>
+        <tspan x="1210" y="-2342.92">XEON</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-7318.28,2994.53 -6958.25,2994.53 -7016.07,3153.39 -7376.1,3153.39 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-7167.17" y="3077.86">
+        <tspan x="-7167.17" y="3077.86">CHUBBY</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="792.055,-2606.39 1071.88,-2606.39 1029.94,-2491.16 750.116,-2491.16 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="910.998" y="-2544.87">
+        <tspan x="910.998" y="-2544.87">OLIVAV</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="692.931" y="-2457.3" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="851.791" y="-2380.01">
+        <tspan x="851.791" y="-2380.01">12amd64</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="340.84" y="-2458.73" width="317.72" height="146.766" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="499.699" y="-2381.45">
+        <tspan x="499.699" y="-2381.45">CBSD</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="357.677,-2444.72 407.175,-2444.72 407.175,-2409.5 352.178,-2409.5 352.178,-2441.2 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="381.051" y="-2422.23">
+        <tspan x="381.051" y="-2422.23">DHCP</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="399.231,-2378.61 351.38,-2378.61 351.38,-2401.77 404.548,-2401.77 404.548,-2380.92 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="376.635" y="-2386.77">
+        <tspan x="376.635" y="-2386.77">DNS</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="396.689,-2334.73 351.862,-2334.73 351.862,-2361.99 401.67,-2361.99 401.67,-2337.46 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="375.521" y="-2345.04">
+        <tspan x="375.521" y="-2345.04">PF</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="400.194,-2390.81 438.846,-2390.81 438.846,-2367.66 395.899,-2367.66 395.899,-2388.5 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="418.446" y="-2374.66">
+        <tspan x="418.446" y="-2374.66">nullfs</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="397.36,-2347.81 436.013,-2347.81 436.013,-2321.58 393.065,-2321.58 393.065,-2345.18 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="415.613" y="-2330.04">
+        <tspan x="415.613" y="-2330.04">devfs</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-3013.26" y="210.711" width="261.673" height="137.471" rx="0" ry="0"/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-2882.43" y="283.347">
+        <tspan x="-2882.43" y="283.347">CBSD</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-2999.73,219.335 -2959.8,219.335 -2959.8,242.493 -3004.17,242.493 -3004.17,221.651 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-2980.88" y="235.493">
+        <tspan x="-2980.88" y="235.493">DHCP</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-2999.13,245.796 -2959.2,245.796 -2959.2,268.954 -3003.57,268.954 -3003.57,248.112 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-2980.27" y="261.954">
+        <tspan x="-2980.27" y="261.954">PF</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-2997.14,290.51 -2957.21,290.51 -2957.21,313.668 -3001.58,313.668 -3001.58,292.826 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-2978.29" y="306.668">
+        <tspan x="-2978.29" y="306.668">DNS</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-2960.14,306.096 -2921.49,306.096 -2921.49,329.253 -2964.44,329.253 -2964.44,308.411 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-2941.89" y="322.253">
+        <tspan x="-2941.89" y="322.253">nullfs</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-2961.72,259.407 -2923.07,259.407 -2923.07,285.635 -2966.02,285.635 -2966.02,262.03 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-2943.47" y="277.177">
+        <tspan x="-2943.47" y="277.177">devfs</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-2500.79,219.55 -2365.75,219.55 -2433.27,332.783 "/>
+      <text font-size="12.7998" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-2433.27" y="251.858">
+        <tspan x="-2433.27" y="251.858">VPN</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 10; stroke-dasharray: 20 8 4 8; stroke: #000000" d="M 1368.45,591.619 A 1312.8,1312.8 0 0 1 1361.4,2607.53"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 10; stroke: #000000" fill-rule="evenodd" points="1371.68,587.69 1360.78,585.208 1365.33,595.418 "/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 10; stroke: #000000" fill-rule="evenodd" points="1358.31,2603.71 1353.68,2613.89 1364.6,2611.49 "/>
+    </g>
+  </g>
+</svg>
